@@ -1,5 +1,3 @@
-*** NixOS ***
+This is the AndersonTorres's fork of NixOS tree from Github.
 
-NixOS is a Linux distribution based on the purely functional package
-management system Nix.  More information can be found at
-http://nixos.org/nixos and in the manual in doc/manual.
+Here I will develop scripts for my favourite softwares - some of them are Bochs, mpv, and Mate Desktop.
